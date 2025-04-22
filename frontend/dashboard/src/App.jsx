@@ -10,7 +10,7 @@ const App =() =>{
       <div className="dashboard--content">
         <Content />
         <Profile />
-        <h1>Yes we are here and going thus far.</h1>
+        
       </div>
 
     
