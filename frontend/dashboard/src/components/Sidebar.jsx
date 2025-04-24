@@ -13,7 +13,7 @@ const Sidebar = () =>{
             <h2>EduFlex</h2>
                 </div>
         <div className='menu--list'>
-            <a href='#' className ='items'>
+            <a href='#' className ='item active'>
                 <BiHome className='icon'/>
                 Dahboard
             </a>
